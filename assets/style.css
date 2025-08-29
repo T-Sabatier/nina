@@ -21,6 +21,12 @@ body {
 .top-header .name {
 	font-size: 26px;
 }
+.ville-titre{
+	font-size: 12px;
+	display: block;
+	text-align: center;
+	
+}
 
 .nav ul {
 	display: flex;
