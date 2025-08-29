@@ -38,8 +38,16 @@ body {
 	color: #000
 }
 
-.social-link img {
-	width: 20px;
+.nav-item{
+	cursor: pointer;
+}
+.nav-link.active-tag {
+    background-color: #BEB45A;
+    border-radius: 0;
+}
+
+.nav-pills .nav-link.active-tag {
+ color: white;
 }
 
 #about {
